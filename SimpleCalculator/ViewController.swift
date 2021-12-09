@@ -18,7 +18,7 @@ class ViewController: UIViewController {
     @IBOutlet weak var resultText: UILabel!
     
     var result = 0
-    //
+    var check = 0
     
     override func viewDidLoad() {
         super.viewDidLoad()
